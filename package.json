@@ -1,0 +1,19 @@
+{
+  "name": "kubernetes-elasticsearch-cluster",
+  "version": "1.0.0",
+  "description": "Elasticsearch (5.4.0) cluster on top of Kubernetes made easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pickhunter/kubernetes-elasticsearch-cluster.git"
+  },
+  "author": "Rohit Garg <rohhittt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pickhunter/kubernetes-elasticsearch-cluster/issues"
+  },
+  "homepage": "https://github.com/pickhunter/kubernetes-elasticsearch-cluster#readme"
+}
